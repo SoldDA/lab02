@@ -1,9 +1,8 @@
-#include <iostream>
+# include <iostream>
+
+using namespce std;
 
 int main(){
-  string name;
-std::cout<<"What is your name?";
-std::cin>>name;
-std::cout<<"Hello world " << name << endl;
+cout << "Hello world";
 return 0;
 }
